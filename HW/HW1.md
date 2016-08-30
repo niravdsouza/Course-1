@@ -11,7 +11,7 @@ You will do the following tasks:
 
 ## About Me (20 points)
 
-Create a gh-pages branch for your homework repo. Create a simple webpage and host on that branch Github Pages.
+Create a gh-pages branch for your homework repo. Create a simple webpage and host on that branch (i.e., Github Pages).
 
 ## Submission
 
