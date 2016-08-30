@@ -30,7 +30,7 @@ The following schedule is subject to change.
 |----------|----------------------------------|------------| ----------------  |
 | Aug 18   | [Agile Processes](http://tiny.cc/AgileProcesses)|            | [HW0](https://github.com/CSC-510/Course/blob/master/HW/HW0.md) |
 | Aug 23   | [Bootcamp: Basics](https://github.com/REU-SOS/EngineeringBasics)  |            |                   |
-| Aug 25   | Bootcamp: REST                   |            | HW1               |
+| Aug 25   | [Bootcamp: REST](https://github.com/CSC-510/REST-SELENIUM) | |[HW1](https://github.com/CSC-510/Course/blob/master/HW/HW1.md)                |
 | Aug 30   | Bots                             |            |                   |
 | Sep  1   | Workshop: Slack bot              |            |                   |
 | Sep  6   | Design                           |            | MILESTONE: DESIGN |
