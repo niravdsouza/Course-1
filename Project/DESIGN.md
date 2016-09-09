@@ -35,7 +35,7 @@ This should be a good two paragraphs.
 ## Architecture Design
 
 * Create a diagram that illustrates the components of your bot, the platform it is embedded in, third party services it may use, data storage it may require, etc.
-* Describe the architecture components in text. This should a few paragraphs.
+* Describe the architecture components in text. This should be a few paragraphs.
 * Describe any constraints or guidelines that should be established in building software for your architecture (e.g., a bot cannot send data from one user to another user).
 
 ### Additional Patterns
