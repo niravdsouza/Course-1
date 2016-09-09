@@ -30,7 +30,7 @@ This should be a good two paragraphs.
 ### Design Sketches
 
 * Create a wireframe mockup of your bot in action.
-* Create a storyboard that illustrates the primary task that a user undergoes.
+* Create a storyboard that illustrates the primary task that a user undergoes with bot.
 
 ## Architecture Design
 
