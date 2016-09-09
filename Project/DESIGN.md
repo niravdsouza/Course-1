@@ -14,7 +14,7 @@ You will also be working in a team of students. Remember to [sign up](https://do
 
 ## Problem Statement
 
-Remember, we are solving problems in the software engineering domain. This does not include problems, such as finding a parking spot, but it may include problems such as forgetting api tokens, drudgery associated with manually creating REST calls, difficulty in executing certain tool command lines, or not wanting to wake up at 3am to restart a server that crashed. 
+Remember, we are solving problems in the software engineering domain. This does not include problems, such as finding a parking spot, but it may include problems such as forgetting api tokens, drudgery associated with manually creating REST calls, difficulty in executing certain command lines tools, or not wanting to wake up at 3am to restart a server that crashed. 
 
 What is the problem? *Why* is it a problem?
 
