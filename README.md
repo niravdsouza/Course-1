@@ -35,7 +35,7 @@ The following schedule is subject to change.
 | Sep  1   | [Workshop: Slack bot](https://github.com/CSC-510/SlackBot)              |            |                   |
 | Sep  6   | [Design](https://docs.google.com/presentation/d/1FCjm3WC7_1v0GcSSKIO_kedgEQinSNctF5Jzi8B_AnQ/edit#slide=id.p)                           |            | [MILESTONE: DESIGN](https://github.com/CSC-510/Course/blob/master/Project/DESIGN.md) |
 | Sep  8   | Workshop: Design roundtables     |            |                   |
-| Sep 13   | Architectures                    |            |                   |
+| Sep 13   | [Architecture Patterns](https://docs.google.com/presentation/d/1D0aPLORphqV4afYeoRnMP-EflsNPhn6X_U-rPe-eZwM/edit#slide=id.g135f76a147_2_14)                    |            |                   |
 | Sep 15   | Frameworks, APIs, Patterns       |            | HW2               |
 | Sep 20   | Web Basics                       |            |                   |
 | Sep 22   | Workshop: Selenium Testing       |            | MILESTONE: BOT    |
