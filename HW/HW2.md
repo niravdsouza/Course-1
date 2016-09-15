@@ -30,7 +30,7 @@ Define and describe 3 patterns that you have found.
 
 * OO Design Patterns (25%)
 * Free-style (25%)
-* Compare and contrast (50%)
+* Compare and contrast and architecture design (50%)
 
 ## Submission
 
