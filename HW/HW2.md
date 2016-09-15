@@ -22,7 +22,7 @@ Define and describe 3 patterns that you have found.
 
 1. Github recently introduced a [GraphQL-based API](http://githubengineering.com/the-github-graphql-api/) as an alternative to a RESTful API.
 
-Compare and contrast a GraphQL-based API versus a RESTful API. What are some advantages and disadvantages of each approach? How might the affect the experience of a developer using the API and developers building and supportin the API?
+  Compare and contrast a GraphQL-based API versus a RESTful API. What are some advantages and disadvantages of each approach? How might the affect the experience of a developer using the API and developers building and supportin the API?
 
 2. Create an architectural diagram that represents a software design for [Pokemon Go](http://www.pokemongo.com/). List the primary tasks that you think would be performed with the software. Write a paragraph that describes the primary concepts and constraints of the system and that describes your overall architecture. You are free to use your best judgement in selecting a design, but you must justify your choices.
 
