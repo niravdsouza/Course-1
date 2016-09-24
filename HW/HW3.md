@@ -3,7 +3,8 @@
 Generate a simple webpage that can create a twitter timeline. Your goal is not to create a pixel perfect replication, but to gain practice in using web technologies to learn how to layout UI elements and generate dynamic content.
 
 #### Example
-https://cloud.githubusercontent.com/assets/742934/12633202/779fac7a-c53d-11e5-90c4-5699525767ce.png
+
+![twitter](https://cloud.githubusercontent.com/assets/742934/12633202/779fac7a-c53d-11e5-90c4-5699525767ce.png)
 
 #### Implementation
 
