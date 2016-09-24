@@ -16,8 +16,8 @@ Generate a simple webpage that can create a twitter timeline. Your goal is not t
 
 Your timeline should have:
 
-* At least 3 tweets, layed out from top to bottom
-* A user profile picture (on left), user name on top.
+* At least 3 tweets
+* A user profile picture (on left), user name (on top).
 * Tweet text
 * At least one tweet with a picture, and at least one tweet without a picture.
 * Basic stats about tweet (retweet, favorites) on bottom.
