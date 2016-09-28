@@ -80,7 +80,6 @@ An example sheet follows:
 | Subflow      | 2             |  [Pivotal Task](https://www.pivotaltracker.com/story/show/114636091)
 | Subflow      | 3             |  [Trello Card](https://trello.com/c/diA1DaMw)
 | Subflow      | &nbsp;        | &nbsp;
-| Unit Tests    | Complete      | testGetMeetingDataFromUser, testFindAvailability, ...
 | Selenium Tests| Incomplete    | Get Meeting Availability, error1,...
 
 * Github issues in a markdown referred to as `#33` will automatically turn into links when in same repo.
