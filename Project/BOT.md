@@ -108,7 +108,7 @@ Demonstrate your selenium tests being executed.
 
 ## Deliverables
 
-Add your code, and BOT.md document describing the following materials. Submit here.
+Add your code, and BOT.md document describing the following materials. [Submit here](https://goo.gl/forms/VCLtPTRzFJamFggx2).
 
 * 3 Use Cases (10%)
 * Mocking (20%)
