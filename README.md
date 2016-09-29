@@ -40,7 +40,7 @@ The following schedule is subject to change.
 | Sep 20   | [Web Basics](https://docs.google.com/presentation/d/1fVB_Yao_FB3RUbQlqyQeLnILmzwKpHnG4cA9Tv6K330/edit#slide=id.g172d8d50d2_0_137)                       |            |                   |
 | Sep 22   | [Workshop: Selenium Testing](https://github.com/CSC-510/REST-SELENIUM/blob/master/README.md#data-collection)       |            | [MILESTONE: BOT](https://github.com/CSC-510/Course/blob/master/Project/BOT.md)    |
 | Sep 27   | [Testing](https://docs.google.com/presentation/d/1TzanyFc0eJB50BRDFmX72PDkSkWzEuFSpyZN6MYL0ZE/edit#slide=id.g136d0b57a3_0_51)                          |            |                   |
-| Sep 29   | Workshop: Unit Tests + Mocking   |            | HW3               |
+| Sep 29   | [Workshop: Unit Tests + Mocking](https://github.com/CSC-510/Mocking)   |            | HW3               |
 | Oct  4   | No class                         |            |                   |
 | Oct  6   | Fall Break                       |            |                   |
 | Oct 11   | Program Analysis, Metrics        |            |                   |
