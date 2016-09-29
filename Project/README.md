@@ -87,3 +87,5 @@ You should practice agile by breaking scenarios down into smaller stories and ta
 * Slack intergration
 * Message conversation
 * Service connections 
+
+Finally, you may find the [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) method a good way plan tasks.
