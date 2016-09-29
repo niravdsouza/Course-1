@@ -101,6 +101,8 @@ Advice: You should practice agile by breaking use cases down into smaller storie
 * Message conversation
 * Service connections 
 
+Finally, you may find the [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) method a good way plan tasks.
+
 ### Screencast
 
 Create a screencast of your bot performing your three use cases.
