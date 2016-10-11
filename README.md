@@ -43,7 +43,7 @@ The following schedule is subject to change.
 | Sep 29   | [Workshop: Unit Tests + Mocking](https://github.com/CSC-510/Mocking)   |            | [HW3](https://github.com/CSC-510/Course/blob/master/HW/HW3.md)               |
 | Oct  4   | No class                         |            |                   |
 | Oct  6   | Fall Break                       |            |                   |
-| Oct 11   | Program Analysis, Metrics        |            |                   |
+| Oct 11   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)        |            |                   |
 | Oct 13   | Workshop: Complexity             |            | HW4               |
 | Oct 18   | Empirical Software Engineering   |            |                   |
 | Oct 20   | Workshop: Data Analysis          |            |MILESTONE: SERVICE |            
