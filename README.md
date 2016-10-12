@@ -44,7 +44,7 @@ The following schedule is subject to change.
 | Oct  4   | No class                         |            |                   |
 | Oct  6   | Fall Break                       |            |                   |
 | Oct 11   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)        |            |                   |
-| Oct 13   | [Workshop: Complexity](https://github.com/CSC-DevOps/Complexity)             |            | [HW4](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
+| Oct 13   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)             |            | [HW4](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
 | Oct 18   | Empirical Software Engineering   |            |                   |
 | Oct 20   | Workshop: Data Analysis          |            |MILESTONE: SERVICE |            
 | Oct 25   | Interviews                       |            |                   |
