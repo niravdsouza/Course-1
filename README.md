@@ -46,7 +46,7 @@ The following schedule is subject to change.
 | Oct 11   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)        |            |                   |
 | Oct 13   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)             |            | [HW4](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
 | Oct 18   | Empirical Software Engineering   |            |                   |
-| Oct 20   | Workshop: Data Analysis          |            |MILESTONE: SERVICE |            
+| Oct 20   | Workshop: Data Analysis          |            |[MILESTONE: SERVICE](https://github.com/CSC-510/Course/blob/master/Project/SERVICE.md) |            
 | Oct 25   | Interviews                       |            |                   |
 | Oct 27   | Workshop: Mock Interviews        |            |                   |
 | Nov  1   | Configuration Management         |            |                   |
