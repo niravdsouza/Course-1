@@ -31,7 +31,7 @@ LIMIT 10
 
 Count the number of spaces at the start of a project.
 
-```
+```sql
 SELECT count(*) as n
 FROM (
  -- split each line of code into a new row
@@ -47,7 +47,7 @@ Can you extend it to count for tabs, too?
 ##### Extend to only Javascript projects:
 
 Can you run only for Javascript projects?
-```
+```sql
  -- only for Javascript
  JOIN (SELECT repo_name FROM [bigquery-public-data:github_repos.languages] 
  WHERE language.name='JavaScript') filtered_languages
