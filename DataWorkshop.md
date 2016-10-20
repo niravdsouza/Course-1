@@ -6,7 +6,7 @@ Get in groups of 3-4. Sign up on Google BigQuery. You can use 1TB of queries quo
 ### 1) Most frequent type of programming language?
 
 ```sql
- SELECT LAST(SPLIT(files.path, '/')) as filename
+ SELECT LAST(SPLIT(files.path, '.')) as filename
  FROM [bigquery-public-data:github_repos.sample_files] files
  LIMIT 10
 ```
