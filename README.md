@@ -48,7 +48,7 @@ The following schedule is subject to change.
 | Oct 18   | [Empirical Software Engineering](https://computinged.wordpress.com/2010/11/27/there-is-no-first-in-cs1/)   |            |                   |
 | Oct 20   | [Workshop: Data Analysis](https://github.com/CSC-510/Course/blob/master/DataWorkshop.md)          |            |[MILESTONE: SERVICE](https://github.com/CSC-510/Course/blob/master/Project/SERVICE.md) |            
 | Oct 25   | Interviews                       |            |                   |
-| Oct 27   | Workshop: Mock Interviews        |            |                   |
+| Oct 27   | [Workshop: Mock Interviews](https://github.com/CSC-510/Course/blob/master/Interviews.md)        |            |                   |
 | Nov  1   | Configuration Management         |            |                   |
 | Nov  3   | Workshop: Ansible, Vagrant       |            | HW5               |
 | Nov  8   | Continuous Deployment            |            |                   |
