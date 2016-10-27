@@ -11,6 +11,7 @@ We will practice a remote technical interview.
 Interviewer, paste the question inside the google form. Clarify any questions about the coding question, and then let the interviewee start coding.  Every 45seconds-1 minute, make sure to ask the developer how they are doing. This is an important part of a technical interview. Some questions you can ask during coding:
 
 * What is your approach?
+* What are you currently thinking about?
 * Is there a better way to do this?
 * Are there any edge cases you are missing?
 
