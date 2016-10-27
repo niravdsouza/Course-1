@@ -20,8 +20,8 @@ Keep track of how long someone is spending on a question. If they do not seem li
 
 After the 30 minutes is up, take the time to finish these surveys:
 
-Interviewee, fill out [Candidate Round 1 Form](https://goo.gl/forms/GnF1YEdTRBCSyuZw1).
-Interviewer, fill out [Assessment Round 1 Form](https://goo.gl/forms/iFIskCMdwBgBtdf02).
+* Interviewee, fill out [Candidate Round 1 Form](https://goo.gl/forms/GnF1YEdTRBCSyuZw1).
+* Interviewer, fill out [Assessment Round 1 Form](https://goo.gl/forms/iFIskCMdwBgBtdf02).
 
 ### Round 2
 
@@ -29,5 +29,5 @@ Now switch places with your interviewer. Create and share a new answers sheet. R
 
 ##### Assessment Forms
 
-Interviewee, fill out [Candidate Round 2 Form](https://goo.gl/forms/E8f6iZkj00OtmYrL2).
-Interviewer, fill out [Assessment Round 2 Form](https://goo.gl/forms/OPMaylCeG9kZ0qDd2).
+* Interviewee, fill out [Candidate Round 2 Form](https://goo.gl/forms/E8f6iZkj00OtmYrL2).
+* Interviewer, fill out [Assessment Round 2 Form](https://goo.gl/forms/OPMaylCeG9kZ0qDd2).
