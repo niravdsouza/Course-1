@@ -20,7 +20,7 @@ Create an ansible playbook that is able to:
 
 Submit your [repo link](https://goo.gl/forms/EQTUjpypDeObc1y12).
 
-* README.md
+* README.md (which documents steps for running ansible and playbook).
 * Ansible playbook files
 * Screencast demo of performing setup, tasks, provisioning steps, running app.
 
