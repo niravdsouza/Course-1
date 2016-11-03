@@ -14,7 +14,7 @@ Create an ansible playbook that is able to:
     * Cleanup: Remove content in `/tmp/*`
  
 * **Provision: (BONUS: 20 points)** Create a new virtual machine from a virtual machine provider (Amazon EC2, Digital Ocean droplets, etc.)
-  - If you do not do this through a cloud provider, you can instead use a local vagrant virtual machine.
+  - If you do not do this through a cloud provider, you can instead use a local vagrant virtual machine -- but receive no bonus.
   
 ## Submission
 
