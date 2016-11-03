@@ -37,7 +37,7 @@ We want to create a master server that runs Ansible. First, use a binary package
 
 Now get ansible itself.
 
-    pip install ansible
+    sudo pip install ansible
 
 Test ansible
 
