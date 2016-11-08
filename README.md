@@ -51,7 +51,7 @@ The following schedule is subject to change.
 | Oct 27   | [Workshop: Mock Interviews](https://github.com/CSC-510/Course/blob/master/Interviews.md)        |            |                   |
 | Nov  1   | [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p)         |            |                   |
 | Nov  3   | [Workshop: Ansible, Vagrant](https://github.com/CSC-510/Course/blob/master/Materials/CM.md)       |            | [HW5](https://github.com/CSC-510/Course/blob/master/HW/HW5.md)               |
-| Nov  8   | Continuous Deployment            |            |                   |
+| Nov  8   | [Continuous Deployment](https://docs.google.com/presentation/d/1hSdoi5pVIBUgISOuPTCx7a_Z4ZrGTHN0ofrMeVcRgSk/edit#slide=id.g13a5922147_0_143)            | [10 Adages](https://github.com/CSC-DevOps/Course/blob/master/Readings/AdagesI.pdf)           |                   |
 | Nov 10   | Microservices + Infrastructure   |            | MILESTONE: DEPLOY |
 | Nov 15   | TBD/Guest                        |            |                   |
 | Nov 17   | TBD/Guest                        |            |                   |
