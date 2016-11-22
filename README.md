@@ -55,7 +55,7 @@ The following schedule is subject to change.
 | Nov 10   | [Microservices + Infrastructure](https://docs.google.com/presentation/d/16q-byGBaz6Gtgf7dsnVPWmkoAW6w3LtmeEThVGNpv1Q/edit#slide=id.p)   |            | [MILESTONE: DEPLOY](https://github.com/CSC-510/Course/blob/master/Project/DEPLOY.md) |
 | Nov 15   | TBD/Guest                        |            |                   |
 | Nov 17   | TBD/Guest                        |            |                   |
-| Nov 22   | Workshop: Docker                 |            |                   |
+| Nov 22   | [Workshop: Docker](https://github.com/CSC-510/Course/blob/master/Materials/Docker.md)                 |            |                   |
 | Nov 24   | Thanksgiving                     |            |                   |
 | Nov 29   | Productivity (PSP+SSP)           |            | MILESTONE: REPORT |
 | Dec  1   | Demos                            |            |                   |
