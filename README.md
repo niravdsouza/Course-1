@@ -54,7 +54,7 @@ The following schedule is subject to change.
 | Nov  8   | [Continuous Deployment](https://docs.google.com/presentation/d/1hSdoi5pVIBUgISOuPTCx7a_Z4ZrGTHN0ofrMeVcRgSk/edit#slide=id.g13a5922147_0_143)            | [10 Adages](https://github.com/CSC-DevOps/Course/blob/master/Readings/AdagesI.pdf)           |                   |
 | Nov 10   | [Microservices + Infrastructure](https://docs.google.com/presentation/d/16q-byGBaz6Gtgf7dsnVPWmkoAW6w3LtmeEThVGNpv1Q/edit#slide=id.p)   |            | [MILESTONE: DEPLOY](https://github.com/CSC-510/Course/blob/master/Project/DEPLOY.md) |
 | Nov 15   | TBD/Guest                        |            |                   |
-| Nov 17   | TBD/Guest                        |            |                   |
+| Nov 17   | [Final Practice](https://github.com/CSC-510/Course/blob/master/FinalReview.md)                        |            |                   |
 | Nov 22   | [Workshop: Docker](https://github.com/CSC-510/Course/blob/master/Materials/Docker.md)                 |            |                   |
 | Nov 24   | Thanksgiving                     |            |                   |
 | Nov 29   | Productivity (PSP+SSP)           |            | MILESTONE: REPORT |
