@@ -4,7 +4,7 @@ Prepare a 3 minute screencast demonstrating your entire project. Focus on illust
 
 This video will be shown in class. Your video shown in class can be considered a "draft", you will have a chance to update it before your final submission. However, you will want to consider using video editing, diagrams, transitions, and high quality audio recording to produce your video. This is one [good example](https://youtu.be/rA5VfuVC0_k) of a screencast.
 
-Please signup for a presentation slot and a provide a link to your video [here](https://docs.google.com/spreadsheets/d/1yaO-1RPo7TGf_uWM6XQcmmfXRh4vfa_tjBxTf0IBtxc/edit#gid=0) for presentation in the class.
+**Please signup for a presentation slot** and a provide a link to your video [here](https://docs.google.com/spreadsheets/d/1yaO-1RPo7TGf_uWM6XQcmmfXRh4vfa_tjBxTf0IBtxc/edit#gid=0) for presentation in the class.
 
 ### Report
 
