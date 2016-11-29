@@ -57,6 +57,6 @@ The following schedule is subject to change.
 | Nov 17   | [Final Practice](https://github.com/CSC-510/Course/blob/master/FinalReview.md)                        |            |                   |
 | Nov 22   | [Workshop: Docker](https://github.com/CSC-510/Course/blob/master/Materials/Docker.md)                 |            |                   |
 | Nov 24   | Thanksgiving                     |            |                   |
-| Nov 29   | Productivity (PSP+SSP)           |            | MILESTONE: REPORT |
+| Nov 29   | Productivity (PSP+SSP)           |            | [MILESTONE: REPORT](https://github.com/CSC-510/Course/blob/master/Project/REPORT.md) |
 | Dec  1   | Demos                            |            |                   |
 | Dec  6   | Exam (8:00AM--10:00AM)           |            |                   |
