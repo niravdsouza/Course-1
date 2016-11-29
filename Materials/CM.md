@@ -3,7 +3,7 @@ Configuration Management Workshop
 
 The goal of this workshop is to demonstrate how to use some tools to aid with the creation of virtual machines and configure software on them.  At the end of this workshop, you should be able to automatically create a virtual machine and configure it to run a simple web server.
 
-# Creating Virtual Machine
+## Creating Virtual Machine
 
 Install [vagrant](https://www.vagrantup.com/downloads.html).
 
@@ -23,7 +23,14 @@ Then
 
 You should be able to connect to the machine.
 
-# Configuration with Ansible
+#### Windows help
+
+* If you're running Hyper-V and VirtualBox, and you're experiencing crashes when you try to start a VM, you may need to turn off Hyper-V (which exclusively locks use of CPU for virtualization).
+
+* If you can't run vagrant ssh, Add `C:\Program Files\Git\usr\bin` to your PATH, which includes `ssh`.
+
+
+## Configuration with Ansible
 
 Ansible is a tool for configuring and coordinating software on multiple machines.
 In general, Ansible (like Salt, Chef, and Puppet), use a central server that controls other nodes.  Unlike the other tools, Ansible does not require a client service to run on the nodes.
