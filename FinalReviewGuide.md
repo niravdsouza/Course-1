@@ -1,4 +1,4 @@
-Review slides, notes, book, and lab materials. This is a comprehensive exam over the entire semester, including Requirements lecture. Exam will be closed book. However, as a good study practice, it is suggested you prepare a one page summary of key definitions and terms in order to help you learn and practice the material.
+Review slides, notes, and workshop materials. This is a comprehensive exam over the entire semester. Exam will be closed book. However, as a good study practice, it is suggested you prepare a one page summary of key definitions and terms in order to help you learn and practice the material.
 
 * Implement software engineering practices in a team project.
 * Identify practices related to software process.
