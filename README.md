@@ -20,7 +20,7 @@ By the end of the course, you should be able to accomplish the following objecti
 
 Students are expected to gain practical exposure to tools, processes, and principles of software engineering through hands-on projects while understanding models and research ideas behind the tools and processes.  Lectures will include workshop style learning experiences, where students get to work on a problemset and receive feedback from the instructor and other classmates.
 
-[Slack](http://csc510-fall16.slack.com)
+[Slack](https://csc510-fall2017.slack.com)
 
 ## Schedule
 
