@@ -43,11 +43,20 @@ Homework assignments will be regularly released throughout the semester and rein
 
 ### Workshops
 
-Workshops are have required attendance and are vital to the course. During a workshop, you'll be guided in using tools and building specific functionality which you will later use for homeworks and project miles. During the semester, 3 workshops will be randomly selected for attendance. 
+Workshops are have required attendance and are vital to the course. During a workshop, you'll be guided in using tools and building specific functionality which you will later use for homeworks and project milestones. During the semester, workshops will be randomly selected for attendance. 
 
 * 1 missed workshop, workshop grade = 4
 * 2 missed workshops, workshop grade = 2
 * 3 missed workshops, workshop grade = 0
+
+### Class Activities
+
+In lecture, in class activities may be requested of students. Students are required to complete these activities in class. Failure to attend class for these activities will result in the following grades:
+
+* 1 missed class activity, class activity grade = 4
+* 2 missed class activity, class activity grade = 2
+* 3 missed class activity, class activity grade = 0
+
 
 ### Project
 
@@ -62,46 +71,6 @@ Details on requirements for milestones will be released throughout the course.  
 * SERVICE
 * DEPLOY
 * REPORT
-
-## Schedule and Topics - Fall 2016
-
-The following schedule is subject to change.
-
-| Class    | Topics                           |  Resources | Assignments       |
-|----------|----------------------------------|------------| ----------------  |
-| Aug 18   | Agile Processes                  |            | HW0               |
-| Aug 23   | Bootcamp: Basics                 |            |                   |
-| Aug 25   | Bootcamp: REST                   |            | HW1               |
-| Aug 30   | Web Basics                       |            |                   |
-| Sep  1   | Workshop: Selenium Testing       |            |                   |
-| Sep  6   | Design                           |            | MILESTONE: DESIGN |
-| Sep  8   | Workshop: Single Page App        |            |                   |
-| Sep 13   | Architectures                    |            |                   |
-| Sep 15   | Frameworks, APIs, Patterns       |            | HW2               |
-| Sep 20   | Bots                             |            |                   |
-| Sep 22   | Workshop: Slack bot              |            | MILESTONE: BOT    |
-| Sep 27   | Testing                          |            |                   |
-| Sep 29   | Workshop: Unit Tests + Mocking   |            | HW3               |
-| Oct  4   | No class                         |            |                   |
-| Oct  6   | Fall Break                       |            |                   |
-| Oct 11   | Program Analysis, Metrics        |            |                   |
-| Oct 13   | Workshop: Complexity             |            | HW4               |
-| Oct 18   | Empirical Software Engineering   |            |                   |
-| Oct 20   | Workshop: Data Analysis          |            |                   |            
-| Oct 25   | Interviews                       |            | MILESTONE: SERVICE|
-| Oct 27   | Workshop: Mock Interviews        |            |                   |
-| Nov  1   | Configuration Management         |            |                   |
-| Nov  3   | Workshop: Ansible, Vagrant       |            | HW5               |
-| Nov  8   | Continuous Deployment            |            |                   |
-| Nov 10   | Microservices + Infrastructure   |            | MILESTONE: DEPLOY |
-| Nov 15   | TBD/Guest                        |            |                   |
-| Nov 17   | TBD/Guest                        |            |                   |
-| Nov 22   | Workshop: Docker                 |            |                   |
-| Nov 24   | Thanksgiving                     |            |                   |
-| Nov 29   | Productivity (PSP+SSP)           |            | MILESTONE: REPORT |
-| Dec  1   | Demos                            |            |                   |
-| Dec  6   | Exam (8:00AM--10:00AM)           |            |                   |
-
 
 ### Late Policy
 No late assignments will be accepted. Many of your assignments will be collaborative
@@ -161,8 +130,9 @@ Online class evaluations will be available for students to complete during the l
 
 | Category           | Weight |
 |--------------------|--------|
-| Homework           | 25%    |
+| Homework           | 20%    |
 | Class workshops    | 5%     |
+| Class activities   | 5%     |
 | Final Exam         | 20%    |
 | **Final Project**  | 50%    |
 
