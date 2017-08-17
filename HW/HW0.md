@@ -43,7 +43,7 @@ In your solution, provide the content of "post-commit". Finally, take a screenca
 
 ## Submit
 
-Submit a link to your github repo, http://tiny.cc/CSC510-Fall16-HW0,
+Submit a link to your github repo, https://goo.gl/forms/U0ObbAKvqhTF3MLg1,
 containing the following:
 
 * Complete moodle and slack profiles by deadline (20).
