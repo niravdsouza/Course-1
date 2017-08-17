@@ -53,7 +53,7 @@ containing the following:
 
 For your screenshot embed in the markdown file of your README.md. Include a link to your screencast video/gif.
 
-**Due Thursday**, 8/25, midnight.
+**Due Thursday**, 8/24, midnight.
 
 ## Screencast (20)
 
