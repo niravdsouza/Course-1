@@ -6,9 +6,14 @@ Get in groups of 3-4. Sign up on Google BigQuery. You can use 1TB of queries quo
 ### 1) Most frequent type of programming language?
 
 ```sql
- SELECT LAST(SPLIT(files.path, '.')) as filename
- FROM [bigquery-public-data:github_repos.sample_files] files
- LIMIT 10
+select language.name, count(*) as freq
+from(
+select language.name
+from [bigquery-public-data.github_repos.languages] language
+)
+group by language.name
+order by freq DESC
+limit 10
 ```
 
 Can you extend this to get top 10?
